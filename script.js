@@ -1,4 +1,4 @@
-// TODO: primo utilizzo di vue
+// TODO: first time using vue
 
 const { createApp } = Vue
 
